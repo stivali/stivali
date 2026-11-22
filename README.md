@@ -17,9 +17,9 @@ This GitHub profile contains code, data processing scripts, and other materials 
 
 **Research and empirical applications**
 
-- [Data Centers in Brazil](https://github.com/stivali/2026_emprego_datacenters)
-- [Apprenticeship Policy](https://github.com/stivali/2026_aprendizagem_implementacao)
-- [Meta-analysis of the VSL in Brazil (](https://github.com/stivali/2023_PPP_VVE) 
+- [The Data Center Workforce in Brazil](https://github.com/stivali/2026_emprego_datacenters)
+- Apprenticeship Policy: [1](https://github.com/stivali/2023_radar_aprendizagem), [2](https://github.com/stivali/2026_aprendizagem_implementacao)
+- [Meta-analysis of the VSL in Brazil](https://github.com/stivali/2023_PPP_VVE) 
 
 **Data processing**
 
