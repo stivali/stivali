@@ -24,7 +24,7 @@ This GitHub profile contains code, data processing scripts, and other materials 
 **Data processing**
 
 - [CNPJ Open Data](https://github.com/stivali/cnpj-open-data-processing)
-- [PNAD - Brazilian Household Survey](https://github.com/stivali/pnad)
+- [PNAD - Brazilian Household Survey produced by IBGE](https://github.com/stivali/pnad)
 
 ---
 
