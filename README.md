@@ -2,7 +2,7 @@
 
 I am an economist and researcher at the [Institute for Applied Economic Research (Ipea)](https://ipea.gov.br/portal/en), a Brazilian federal think tank.
 
-My work focuses on applied economics, with experience in economic research, public policy analysis, and public administration. I have a background in economics and statistics and am currently pursuing a PhD in Economics at the University of Brasília (UnB).
+My work focuses on applied economics, combining economic research, policy analysis, and experience in public administration. I have a background in economics and statistics and am currently pursuing a PhD in Economics at the University of Brasília (UnB).
 
 ## Research Interests
 
@@ -18,13 +18,13 @@ This GitHub profile contains code, data processing scripts, and other materials 
 **Research and empirical applications**
 
 - [The Data Center Workforce in Brazil](https://github.com/stivali/2026_emprego_datacenters)
-- Apprenticeship Policy: [1](https://github.com/stivali/2023_radar_aprendizagem), [2](https://github.com/stivali/2026_aprendizagem_implementacao)
-- [Meta-analysis of the VSL in Brazil](https://github.com/stivali/2023_PPP_VVE) 
+- Apprenticeship Policy in Brazil: [1](https://github.com/stivali/2023_radar_aprendizagem), [2](https://github.com/stivali/2026_aprendizagem_implementacao)
+- [Meta-Analysis of the Value of Statistical Life in Brazil](https://github.com/stivali/2023_PPP_VVE) 
 
 **Data processing**
 
 - [CNPJ Open Data](https://github.com/stivali/cnpj-open-data-processing)
-- [PNAD - Brazilian Household Survey produced by IBGE](https://github.com/stivali/pnad)
+- [PNAD - Brazilian National Household Sample Survey](https://github.com/stivali/pnad)
 
 ---
 
